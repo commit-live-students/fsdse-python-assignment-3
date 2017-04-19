@@ -1,1 +1,10 @@
-# fsdse-python-assignment-3
+# Python Programming Basics - Assignment
+
+### Problem Statement: 
+
+Write a program that accepts a sentence and calculate the number of letters and digits.
+
+1. Define function 'letterAndDigit' which will accept a string as argument.
+2. String should not be empty or none.
+3. Calculate number of digits and characters inside string and return a dict object in format of {"DIGITS":count, "LETTERS":count}.
+4. Function should pass all test cases.
