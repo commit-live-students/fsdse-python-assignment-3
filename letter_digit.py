@@ -1,2 +1,2 @@
 def letterAndDigit(sreing_here):
-    return {"DIGITS":3, "LETTERS":10}
+    return {"DIGITS":4, "LETTERS":10}
