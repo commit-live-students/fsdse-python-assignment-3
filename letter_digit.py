@@ -11,4 +11,4 @@ def letterAndDigit(str1='default123'):
     cntDict.update({"DIGITS":cntDigit, "LETTERS":cntLetter})
     return cntDict
 
-print(letterAndDigit('213123'))
+print(letterAndDigit('NIkhil213123'))
